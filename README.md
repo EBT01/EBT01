@@ -1,3 +1,4 @@
+ENU|<a href="./README_zh.md">CHS</a>
 - 👋 Hi, I’m @Linecom
 - 👀 I’m interested in Java,html,JavaScript and more.
 - 🎮 My favourite computer games is <b>Genshin Impact</b>.I also play other games such as Minecraft and so on.
