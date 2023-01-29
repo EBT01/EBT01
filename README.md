@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EBT01
+- 👋 Hi, I’m @Linecom
 - 👀 I’m interested in Java,html,JavaScript and more.
 - 🎮 My favourite computer games is <b>Genshin Impact</b>.I also play other games such as Minecraft and so on.
 - 📫 3448336734@qq.com is my personal email,and also you can send email to <b>support@linecom.net.cn</b> for more support.
