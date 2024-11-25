@@ -45,6 +45,8 @@
 
 > 也非常感谢大家的支持与赞助（比心）
 
+### iOS AppClip 体验
+(澪空软件速递查询)[https://appclip.apple.com/id?p=com.linecom.expressquery.Clip]
 <!---
 EBT01/EBT01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
